@@ -66,7 +66,7 @@ public class Rol implements Serializable {
 	}
 
 	public List<Usuario> getUsuarios() {
-		return this.usuarios;
+		return this.usuarios ;
 	}
 
 	public void setUsuarios(List<Usuario> usuarios) {
